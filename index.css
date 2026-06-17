@@ -115,12 +115,6 @@ h2::before {
   opacity: 0.04;
   pointer-events: none;
 }
-/* .hero-inner {
-  position: relative;
-  z-index: 1;
-  max-width: 680px;
-  margin: 0 auto;
-} */
  .hero-inner { position: relative; z-index: 1; max-width: 880px; margin: 0 auto; }
 .status-badge {
   display: inline-flex;
